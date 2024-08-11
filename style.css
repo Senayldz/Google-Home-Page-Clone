@@ -97,6 +97,7 @@
 
 .section .search-box img{
     width: 30px;
+    cursor: pointer;
 }
 
 .section .boxes {
